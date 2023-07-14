@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 #### What I'm doing?
 - 🏢 Working at **[INNOWEB LTD](https://innoweb.co/)** as a **Java developer**.
 - 👨‍💻 Writing `JAVA` `SQL` `XAML` `HTML` `CSS` `JavaScript`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.Java community**.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdullah-shariar/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.Java community**.
 - 📚 Currently learning about **clean architecture**, **Microservice**, **large scale system design**.
 - 👯 Looking to collaborate on **.JAVA SPRING BOOT PROJECT**.
 - 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)** as pet projects.
