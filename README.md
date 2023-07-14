@@ -6,15 +6,15 @@
 Here are some ideas to get you started:
 -->
 #### Who I am?
-- A solution architect based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 10 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
-- Developed products for **healthcare, financial service, F&B, retail,** and **logistics** business domains.
-- Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
+- A JAVA based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- Have 6 years of hands-on experience in **technology And  product development.**
+- Developed products for **Banking , financial service, retail,** business domains.
+- Have built  in **monolithic** and **microservices java spring Boot** architectures.
 
 #### What I'm doing?
-- 🏢 Working at **[SELISE](https://selise.ch/)** as a **Senior Solution Architect**.
-- 👨‍💻 Writing `C#` `SQL` `XAML` `HTML` `CSS` `JavaScript`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
+- 🏢 Working at **[INNOWEB LTD](https://innoweb.co/)** as a **Java developer**.
+- 👨‍💻 Writing `JAVA` `SQL` `XAML` `HTML` `CSS` `JavaScript`.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.Java community**.
 - 📚 Currently learning about **clean architecture**, **Microservice**, **large scale system design**.
 - 👯 Looking to collaborate on **.JAVA SPRING BOOT PROJECT**.
 - 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)** as pet projects.
